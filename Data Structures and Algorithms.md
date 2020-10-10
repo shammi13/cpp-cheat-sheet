@@ -1,5 +1,8 @@
 # C++ Data Structures and Algorithms Cheat Sheet
 
+## Algo cheatsheet on Medium
+https://medium.com/logicalbee/c-stl-algorithms-cheat-sheet-d92f986abe14
+
 ## Table of Contents
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
